@@ -1,0 +1,4 @@
+name: WebAPI
+version: '1.0-SNAPSHOT'
+main: xyz.gothaj.webserverhandler.WebAPI
+load: STARTUP

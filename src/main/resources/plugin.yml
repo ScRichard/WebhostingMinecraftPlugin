@@ -1,0 +1,4 @@
+name: WebAPI
+version: '${project.version}'
+main: xyz.gothaj.webserverhandler.WebAPI
+load: STARTUP
