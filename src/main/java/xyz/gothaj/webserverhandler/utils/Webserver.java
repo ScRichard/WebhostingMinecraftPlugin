@@ -21,9 +21,9 @@ public class Webserver {
 
     private static WebAPI webAPI;
 
-    private static String host = "mysql.hostify.cz";
-    private static String user = "db_74345_gothajdb";
-    private static String password = "Kokotka123";
+    private static String host = "host";
+    private static String user = "user";
+    private static String password = "pass";
 
     public Webserver(WebAPI webAPI,int port){
         this.webAPI = webAPI;
